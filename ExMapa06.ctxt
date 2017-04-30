@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ run()
+comment1.params=
+comment1.target=void\ obterSinalizadores()
+comment2.params=
+comment2.target=void\ deixarSinalizadores()
+comment3.params=
+comment3.target=void\ largar()
+comment4.params=
+comment4.target=void\ subir()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

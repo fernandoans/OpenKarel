@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=posOrig
+comment0.target=void\ setPosOrig(boolean)
+comment1.params=
+comment1.target=boolean\ up()
+comment2.params=
+comment2.target=boolean\ exitLeft()
+comment3.params=
+comment3.target=boolean\ exitRight()
+comment4.params=
+comment4.target=void\ turnRight()
+comment5.params=
+comment5.target=void\ pegarSinalizador()
+comment6.params=
+comment6.target=boolean\ andar()
+comment7.params=quina
+comment7.target=void\ andarComDesvio(boolean)
+comment8.params=
+comment8.target=boolean\ volta()
+comment9.params=
+comment9.target=void\ deixarSinalizador()
+numComments=10
